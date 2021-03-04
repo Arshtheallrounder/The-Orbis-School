@@ -1,0 +1,54 @@
+body{
+    background-color: deeppink;
+    text-align: center;
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.link {
+    color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+   font-family: cursive;
+    font-size: 25px;
+    display: inline;
+}
+
+.link:hover {
+    background-color: white;
+    font-size: 26px;
+    text-decoration: underline;
+}
+img{
+    height: 50px;
+    width: 55px;
+}
+#1{
+  height: 50px;
+    width: 55px;
+}
+#2{
+  height: 50px;
+    width: 55px;
+}
+#3{
+  height: 50px;
+    width: 55px;
+}
+#4{
+  height: 50px;
+    width: 55px;
+}#5{
+  height: 50px;
+    width: 55px;
+}#6{
+  height: 100px;
+    width: 55px;
+}
